@@ -506,4 +506,4 @@ If the build is successful we should see our new docker image and docker contain
 
 Also, we if access our new dockerized app from our browser on port 8087, the result should be something like this:
 
-![aws](https://miro.medium.com/v2/resize:fit:750/format:webp/1*s6KDOzNqAUgYPenBojBnqQ.png)
+![aws][1_s6KDOzNqAUgYPenBojBnqQ](https://github.com/user-attachments/assets/e623314c-a889-42ec-8f7d-13065ca21bfb)
